@@ -219,7 +219,7 @@
 
             this.default_options = {
                 // autorun: true,
-                cookie: 'cookiebanner-accepted',
+                cookie: 'gymnasium-cookiebanner-accepted',
                 closeText: '&#10006;',
                 cookiePath: '/',
                 debug: false,
