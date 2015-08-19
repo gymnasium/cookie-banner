@@ -59,7 +59,7 @@ style. The following options are settable through a `data-` property on the
 Here's an example:
 
     <script type="text/javascript" id="cookiebanner"
-        src="//cookiebanner.eu/js/cookiebanner.js"
+        src="//cookiebanner.eu/js/cookiebanner.min.js"
         data-height="20px" data-position="top"
         data-message="We use cookies to improve your browsing experience.">
     </script>
@@ -119,7 +119,7 @@ please follow these simple rules:
 
 ## License
 
-Copyright (C) 2013 Good Code
+Copyright (C) 2013-2015 Good Code and Cookie Banner contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
